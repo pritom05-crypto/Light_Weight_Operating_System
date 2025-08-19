@@ -1,0 +1,12 @@
+C:\Users\ACER\source\repos\Light_Weight_Operating_System\Light_Weight_Operating_System\bin\Debug\net6.0\Light_Weight_Operating_System.deps.json
+C:\Users\ACER\source\repos\Light_Weight_Operating_System\Light_Weight_Operating_System\bin\Debug\net6.0\Light_Weight_Operating_System.dll
+C:\Users\ACER\source\repos\Light_Weight_Operating_System\Light_Weight_Operating_System\bin\Debug\net6.0\Light_Weight_Operating_System.pdb
+C:\Users\ACER\source\repos\Light_Weight_Operating_System\Light_Weight_Operating_System\obj\Debug\net6.0\Light_Weight_Operating_System.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Light_Weight_Operating_System\Light_Weight_Operating_System\obj\Debug\net6.0\Light_Weight_Operating_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Light_Weight_Operating_System\Light_Weight_Operating_System\obj\Debug\net6.0\Light_Weight_Operating_System.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Light_Weight_Operating_System\Light_Weight_Operating_System\obj\Debug\net6.0\Light_Weight_Operating_System.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Light_Weight_Operating_System\Light_Weight_Operating_System\obj\Debug\net6.0\Light_Weight_Operating_System.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Light_Weight_Operating_System\Light_Weight_Operating_System\obj\Debug\net6.0\Light_Weight_Operating_System.dll
+C:\Users\ACER\source\repos\Light_Weight_Operating_System\Light_Weight_Operating_System\obj\Debug\net6.0\refint\Light_Weight_Operating_System.dll
+C:\Users\ACER\source\repos\Light_Weight_Operating_System\Light_Weight_Operating_System\obj\Debug\net6.0\Light_Weight_Operating_System.pdb
+C:\Users\ACER\source\repos\Light_Weight_Operating_System\Light_Weight_Operating_System\obj\Debug\net6.0\ref\Light_Weight_Operating_System.dll
